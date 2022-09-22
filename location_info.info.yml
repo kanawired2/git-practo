@@ -1,5 +1,0 @@
-name: 'Location Info'
-type: module
-description: 'Provides site location info via block'
-core_version_requirement: 9.x
-package: 'Custom'
